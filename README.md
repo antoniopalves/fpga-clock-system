@@ -82,16 +82,27 @@ The system is composed of multiple modular VHDL components:
 ## 📁 Project Structure
 P1/
 ├── 4/ # (Optional) Simulation or test results
+
 ├── 6/ # (Optional) Project folders
+
 ├── VHDL Files/ # All source code (.vhdl)
+
 │ ├── CoreIP/
+
 │ ├── Debouncer/
+
 │ ├── Display/
+
 │ └── StateMachines/
+
 ├── Especificações Core IP.pdf # Clock system specifications
+
 ├── Especificações Debouncer.pdf # Debouncer specs
+
 ├── Relatório Trabalho 1 - CSD.pdf # Final technical report
+
 ├── .gitignore
+
 └── README.md
 ---
 
