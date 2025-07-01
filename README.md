@@ -124,7 +124,7 @@ The design was tested via simulation and real FPGA implementation. Each feature 
 
 ## 👨‍💻 Authors
 
-- **Guilherme Conha** – Nº 60143  
+- **Guilherme Concha** – Nº 60143  
 - **Pedro Peres** – Nº 60495  
 - **António Alves** – Nº 58339  
 
