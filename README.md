@@ -2,7 +2,7 @@
 
 This project implements a fully functional digital clock system on an FPGA using VHDL and Xilinx ISE. It includes real-time clock functionality with additional modes such as Alarm, Timer, and Stopwatch, each controllable via physical switches and buttons with debouncing logic.
 
-## 🧠 Features
+## Features
 
 - **Clock Display Modes**: HH:MM and MM:SS
 - **Alarm**: Alerts when clock time matches set alarm time (LED ON)
@@ -12,7 +12,7 @@ This project implements a fully functional digital clock system on an FPGA using
 - **Debouncer**: Eliminates bounce from physical buttons
 - **Asynchronous Reset**: System-wide reset for all modules
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 P1/
@@ -30,7 +30,7 @@ P1/
 └── README.md
 ```
 
-## 🚀 How to Use
+## How to Use
 
 1. **Open Xilinx ISE** and create a new project.
 2. Import all files from `VHDL Files/`.
@@ -38,7 +38,7 @@ P1/
 4. Connect FPGA I/Os according to the switch/button/display/LED definitions in the specs.
 5. Synthesize, implement, and upload to your FPGA board.
 
-## 👨‍💻 Authors
+## Authors
 
 - Guilherme Conha – Nº 60143  
 - Pedro Peres – Nº 60495  
