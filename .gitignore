@@ -1,0 +1,15 @@
+*.bit
+*.bin
+*.vcd
+*.log
+*.jou
+*.xml
+*.xpr
+*.zip
+*.wdb
+*.dbg
+*.o
+*.exe
+__pycache__/
+.sim/
+.simulation/
